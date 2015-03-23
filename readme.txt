@@ -1,4 +1,4 @@
-=== DeMomentSomTres Language ===
+=== DeMomentSomTres Multisite Post Clone ===
 Contributors: marcqueralt
 Donate link: http://demomentsomtres.com/english/wordpress-plugins/demomentsomtres-multisite-post-clone/
 Tags: multilanguage, network, multisite, seo, post clone
